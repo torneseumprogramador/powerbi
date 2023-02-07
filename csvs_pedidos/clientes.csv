@@ -1,6 +1,6 @@
 id,nome,telefone,endereco,email
-1,João Silva,(11) 1234-5678,Rua ABC, 123, Bairro XYZ, São Paulo, SP, joao.silva@email.com
-2,Maria Oliveira,(11) 2345-6789,Rua DEF, 456, Bairro UVW, São Paulo, SP, maria.oliveira@email.com
-3,Pedro Sousa,(11) 3456-7890,Rua GHI, 789, Bairro RST, Rio de Janeiro, RJ, pedro.sousa@email.com
-4,Lucas Lima,(21) 4567-8901,Rua JKL, 159, Bairro MNO, Rio de Janeiro, RJ, lucas.lima@email.com
-5,Ana Paula,(21) 5678-9012,Rua PQR,753, Bairro STU, Belo Horizonte, MG, ana.paula@email.com
+1,João Silva,(11) 1234-5678, Rua ABC - 123 - Bairro XYZ - São Paulo - SP, joao.silva@email.com
+2,Maria Oliveira,(11) 2345-6789, Rua DEF - 456 - Bairro UVW - São Paulo - SP, maria.oliveira@email.com
+3,Pedro Sousa,(11) 3456-7890, Rua GHI - 789 - Bairro RST - Rio de Janeiro - RJ, pedro.sousa@email.com
+4,Lucas Lima,(21) 4567-8901, Rua JKL - 159 - Bairro MNO - Rio de Janeiro - RJ, lucas.lima@email.com
+5,Ana Paula,(21) 5678-9012, Rua PQR - 753 - Bairro STU - Belo Horizonte - MG, ana.paula@email.com
