@@ -1,0 +1,40 @@
+id,estado,número de vítimas
+1,Alsace,123
+2,Aquitaine,456
+3,Auvergne,789
+4,Bourgogne,900
+5,Bretagne,800
+6,Centre-Val de Loire,567
+7,Champagne-Ardenne,234
+8,Corse,567
+9,Franche-Comté,890
+10,Île-de-France,123
+11,Languedoc-Roussillon,456
+12,Limousin,789
+13,Lorraine,900
+14,Midi-Pyrénées,800
+15,Nord-Pas-de-Calais,567
+16,Basse-Normandie,234
+17,Haute-Normandie,567
+18,Pays de la Loire,789
+19,Picardie,900
+20,Poitou-Charentes,800
+21,Provence-Alpes-Côte d'Azur,567
+22,Rhône-Alpes,234
+23,Auvergne-Rhône-Alpes,567
+24,Bourgogne-Franche-Comté,789
+25,Grand Est,900
+26,Hauts-de-France,800
+27,Île-de-France,567
+28,Normandie,234
+29,Nouvelle-Aquitaine,567
+30,Occitanie,789
+31,Pays de la Loire,900
+32,Provence-Alpes-Côte d'Azur,800
+33,Corse,567
+34,Guadeloupe,234
+35,Martinique,567
+36,Guyane,789
+37,La Réunion,900
+38,Mayotte,800
+39,Saint-Pierre-et-Miquelon,567
