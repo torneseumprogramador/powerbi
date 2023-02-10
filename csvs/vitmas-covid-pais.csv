@@ -1,0 +1,57 @@
+id,país,estado,número de vítimas
+1,Brasil,Acre,123
+2,Brasil,Alagoas,456
+3,Brasil,Amapá,789
+4,Brasil,Amazonas,900
+5,Brasil,Bahia,800
+6,Brasil,Ceará,567
+7,Brasil,Distrito Federal,234
+8,Brasil,Espírito Santo,567
+9,Brasil,Goiás,890
+10,Brasil,Maranhão,123
+11,França,Alsácia,456
+12,França,Aquitânia,789
+13,França,Auvergne-Rhône-Alpes,900
+14,França,Bourgogne-Franche-Comté,800
+15,França,Bretanha,567
+16,França,Centro-Val de Loire,234
+17,França,Grand Est,567
+18,França,Hauts-de-France,789
+19,França,Ile-de-France,900
+20,França,Nova Aquitânia,800
+21,França,Normandia,567
+22,França,Occitanie,234
+23,França,Pays de la Loire,567
+24,França,Provença-Alpes-Côte d'Azur,789
+25,Estados Unidos,Alabama,900
+26,Estados Unidos,Alaska,800
+27,Estados Unidos,Arizona,567
+28,Estados Unidos,Arkansas,234
+29,Estados Unidos,California,567
+30,Estados Unidos,Colorado,789
+31,Estados Unidos,Connecticut,900
+32,Estados Unidos,Delaware,800
+33,Estados Unidos,Florida,567
+34,Estados Unidos,Georgia,234
+35,Estados Unidos,Hawaii,567
+36,Estados Unidos,Idaho,789
+37,Estados Unidos,Illinois,900
+38,Estados Unidos,Indiana,800
+39,Estados Unidos,Iowa,567
+40,Estados Unidos,Kansas,234
+41,Estados Unidos,Kentucky,567
+42,Estados Unidos,Louisiana,789
+43,Estados Unidos,Maine,900
+44,Estados Unidos,Maryland,800
+45,Estados Unidos,Massachusetts,567
+46,Estados Unidos,Michigan,234
+47,Estados Unidos,Minnesota,567
+48,Estados Unidos,Mississippi,789
+49,Estados Unidos,Missouri,900
+50,Estados Unidos,Montana,800
+51,China,Anhui,123
+52,China,Fujian,456
+53,China,Gansu,789
+54,China,Guangdong,900
+55,China,Guizhou,800
+56,China,Hainan,567
