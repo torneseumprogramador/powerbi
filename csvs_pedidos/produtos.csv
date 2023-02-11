@@ -1,6 +1,6 @@
 id,nome,descricao,valor,quantidade_estoque
-1,Arroz Integral,Arroz Integral 100% Orgânico,5.00,100
-2,Feijão Preto,Feijão Preto 100% Orgânico,6.00,100
-3,Macarrão Integral,Macarrão Integral 100% Orgânico,4.00,100
-4,Azeite de Oliva,Azeite de Oliva extra virgem,10.00,100
-5,Bolo Integral,Bolo Integral feito com farinha 100% integral,15.00,100
+1,Arroz Integral,Arroz Integral 100% Orgânico,15.20,2
+2,Feijão Preto,Feijão Preto 100% Orgânico,6.50,10
+3,Macarrão Integral,Macarrão Integral 100% Orgânico,4.00,2
+4,Azeite de Oliva,Azeite de Oliva extra virgem,10.50,5
+5,Bolo Integral,Bolo Integral feito com farinha 100% integral,15.20,1
