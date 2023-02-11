@@ -1,0 +1,4 @@
+Vitmas maiores que x = 
+    var soma = sum(vitmas_covid_mundial[numero_de_vitimas])
+    var result = If( soma >= 246, "Emergencia", "Preocupante")
+    return result
